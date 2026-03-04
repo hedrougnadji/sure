@@ -1,0 +1,5 @@
+{
+  "name": "SURE Image Denoising",
+  "description": "Educational demo of image denoising by optimal thresholding based on Stein's Unbiased Risk Estimator (SURE).",
+  "requestFramePermissions": []
+}
